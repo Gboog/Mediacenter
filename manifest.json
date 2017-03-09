@@ -1,0 +1,12 @@
+{
+  "name": "Media Center",
+  "description": "My amazing social media app.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "favicon(2).png", "128": "icon.png" }
+}
